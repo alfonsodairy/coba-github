@@ -3,3 +3,5 @@ Belajar Github
 - Gemini AI
 - Otodidak
 - Claude AI
+- CHT GPT
+- Copilot AI
